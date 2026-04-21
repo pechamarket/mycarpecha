@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pecha.shop/sitemap.xml
+Sitemap: https://pecha.shop/rss.xml

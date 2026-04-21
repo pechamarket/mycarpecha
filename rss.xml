@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-  <title>폐차마스터 | pecha.shop</title>
-  <link>https://pecha.shop</link>
-  <description>전국 1등 폐차 및 수출 전문 - 폐차마스터</description>
+  <title>내차폐차 | pecha.cyou</title>
+  <link>https://pecha.cyou</link>
+  <description>가장 스마트한 폐차 솔루션 - 내차폐차</description>
   <language>ko-kr</language>
   <item>
-    <title>전국 어디서나 가능한 스마트 폐차 서비스</title>
-    <link>https://pecha.shop/#services</link>
-    <description>일반/고가 매입 폐차, 당일 신속 말소, 전국 무료 견인 서비스 안내</description>
-    <pubDate>Tue, 21 Apr 2026 01:48:00 +0900</pubDate>
+    <title>신속 정확한 폐차 서비스 안내</title>
+    <link>https://pecha.cyou/#services</link>
+    <description>최고가 보상, 당일 무료 견인, 법적 보호 안심 처리 서비스.</description>
+    <pubDate>Wed, 22 Apr 2026 00:00:00 +0900</pubDate>
   </item>
 </channel>
 </rss>
